@@ -43,17 +43,12 @@ scaler.pkl
 
 ## How to Run
 
-1. **Install dependencies:**
-   ```sh
-   pip install -r requirements.txt
-   ```
-
-2. **Start the app:**
+1. **Start the app:**
    ```sh
    streamlit run app.py
    ```
 
-3. **Interact with the dashboard:**  
+2. **Interact with the dashboard:**  
    Enter patient data in the sidebar to get a cardiovascular disease risk prediction.
 
 ## Model Details
